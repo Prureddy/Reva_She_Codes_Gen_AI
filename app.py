@@ -16,6 +16,7 @@ with col2:
 
 st.markdown(
     """
+    
     <style>
 div.stButton > button:first-child {
     background-color: #ffd0d0;
